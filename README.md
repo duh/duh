@@ -1,8 +1,8 @@
 # welcoem
 
 hi! i'm @duh :D<br>
-i program in a few languages; mainly c# and js, but also c++!<br>
-i speak english and quite a bit of spanish ja
+i program in a few languages; mainly c# and js<br>
+
 
 ### what i like
 - making weird web apps and stupid things
