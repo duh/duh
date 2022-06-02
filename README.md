@@ -22,7 +22,8 @@ i program in a few languages; mainly c# and js<br>
 there is not much of a story behind it :P
 in early 2020, i started coding more often and decided i wanted a fresh new github account! i wanted a cool name and i looked up 'short names available on github' and found a big list of 3 letter names which were available
 they were mostly just random letters and numbers but then i saw 'duh' and was like 'there's no way' but apparently it was because here i am
-my guess is that github was reserving this username or something cos there's no way no one took it and that i managed to somehow get it soon after it became available but i guess i'll never know
+my guess is that github was reserving this username or something (cos there's no way no one took it) and that i managed to somehow get it soon after it became available but i guess i'll never know
+
 <!--
 **duh/duh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
