@@ -3,6 +3,8 @@
 hi, i'm icy<br>
 i program in a few languages; mainly c# and js (this was originally written like last year i do not remember any js)<br>
 
+### about me
+i like technology, especially older tech from the early 2000s, listening to different types of music, software-defined radio, gta v, shopping (esp fashion), drawing stuff (not actual art literally just drawing cool typography and designs all over my folders, sticky notes or school books) and making mashups
 
 ### what i like
 - making weird web apps to do oddly specific things
