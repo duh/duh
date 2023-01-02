@@ -6,11 +6,7 @@ i program in a few languages; mainly c# and js (this was originally written like
 
 ### about me
 i like technology, especially older tech from the early 2000s, listening to different types of music, software-defined radio, gta v, shopping (esp fashion), drawing stuff (not actual art literally just drawing cool typography and designs all over my folders, sticky notes or school books) and making mashups
-
-### what i like
-- making weird web apps to do oddly specific things
-- i want to learn how to make ds/wii homebrew apps
-- jailbreaking,  mostly legacy stuff (ios 6 and below)
+<br>i am currently focusing on learning python and css
 
 ### languages
 | Language             | How I use it                                                                                 | Example Repos                                                                                  |
