@@ -16,14 +16,6 @@ i like technology, especially older tech from the early 2000s, listening to diff
 | Python               | Python is the main language I am learning right now, especially because I have a Raspberry Pi :)                                                                           | None right now                                                                         |
 | HTML/CSS             | Making cool sites and hopefully some web apps | None right now                                                                         |
 
-
-### the username
-there is not much of a story behind how i got a cool username, but i feel like i should explain so it doesn't look dodgy..
-in early 2020, i started coding more often and decided i wanted a new github account and obviously i wanted a cool name so i looked up 'short names available on github' and found a repo with a big list of 3 letter names which were available
-they were mostly just random letters and numbers but then i saw 'duh' and was like 'there's no way' but apparently it was because here i am
-my guess is that github was reserving this username or something (cos there's no way no one took it) and that i managed to somehow get it soon after it became available but i guess i'll never know<br>
-<br>![](https://komarev.com/ghpvc/?username=duh)
-
 <!--
 **duh/duh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
