@@ -13,7 +13,7 @@ i like technology, especially older tech from the early 2000s, listening to diff
 |----------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | C#                   | Probably the language I am most familiar with, I use this to make Windows apps!              | None right now
 | Javascript (Node.js) | I mostly use JavaScript to create bots, and I am also learning to make web apps with it                       | None right now
-| Python               | Python is the main language I am learning right now, especially because I have a Raspberry Pi :)                                                                           | None right now                                                                         |
+| Python               | Python is the main language I am learning right now, especially because I have a Raspberry Pi :)                                                                           | [lastfm-utils](https://github.com/duh/lastfm-utils)                                                                        |
 | HTML/CSS             | Making cool sites and hopefully some web apps | None right now                                                                         |
 
 <!--
