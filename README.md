@@ -6,14 +6,15 @@ i program in a few languages; mainly c# and python<br>
 
 ### about me
 i like technology, especially older tech from the early 2000s, listening to different types of music, software-defined radio, gta v, drawing stuff and making mashups
-<br>i am currently focusing on learning python and css
+<br>i am currently focusing on learning Python and Java
 
 ### languages
 | Language             | How I use it                                                                                 | Example Repos                                                                                  |
 |----------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | C#                   | Probably the language I am most familiar with, I use this to make Windows apps!              | None right now
+| Java                 | I am learning this in my uni course, and use it for console and GUI based applications       | None right now
 | Javascript (Node.js) | I haven't used JS in a while, but used to use it for bots and plan to start learning it again for web apps                       | None right now
-| Python               | Python is the main language I am learning right now, especially because I have a Raspberry Pi :)                                                                           | [lastfm-utils](https://github.com/duh/lastfm-utils), [blackjack](https://github.com/duh/blackjack)                                                                        |
+| Python               | Python is the main language I am learning right now, especially because I have a Raspberry Pi :)                                                                           | [lastfm-utils](https://github.com/duh/lastfm-utils), [blackjack](https://github.com/duh/blackjack), [pixelsplitter](https://github.com/duh/pixelsplitter)                                                                        |
 | HTML/CSS             | Making cool sites and hopefully some web apps | None right now                                                                         |
 
 <!--
