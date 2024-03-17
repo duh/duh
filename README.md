@@ -1,6 +1,6 @@
 # welcome
 
-hi, I'm a first-year Computer Science student 🤓🤓🤓🤓
+hi, I'm a first-year Computer Science student 🤓🤓🤓🤓<br>
 I have a basic understanding of many languages, but mainly focus on JS, Python, and more recently Java.
 
 ### about me
