@@ -1,12 +1,10 @@
 # welcome
 
-hi, i'm icy<br>
-i program in a few languages; mainly c# and python<br>
-
+hi, I'm a first-year Computer Science student 🤓🤓🤓🤓
+I have a basic understanding of many languages, but mainly focus on JS, Python, and more recently Java.
 
 ### about me
-i like technology, especially older tech from the early 2000s, listening to different types of music, software-defined radio, gta v, drawing stuff and making mashups
-<br>i am currently focusing on learning Python and Java
+I like tech, especially older computers, listening to music, playing games, going for walks, and subway (my beloved)
 
 ### languages
 | Language             | How I use it                                                                                 | Example Repos                                                                                  |
