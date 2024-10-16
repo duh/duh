@@ -11,7 +11,7 @@ i have tried out a range of languages through school and in my free time.
 |----------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
 | C#                   | Probably the language I am most familiar with, although I do not use it much nowadays.              | None right now
 | Java                 | I am learning this in my uni course, and use it for console and GUI based applications       | None right now
-| Javascript           | I have used Node.js in the past for creating quick scripts and bots. More recently, I have been using it in my university course to create interactive websites.                       | [bubbles](https://github.com/duh/bubbles)
+| Javascript           | I have used Node.js in the past for creating quick scripts and bots. More recently, I have been using it in my university course to create interactive websites.                       | [carnival-shooter](https://github.com/duh/carnival-shooter), [bubbles](https://github.com/duh/bubbles)
 | Python               | Python is the main language I am learning right now, especially because I have a Raspberry Pi :)                                                                           | [lastfm-utils](https://github.com/duh/lastfm-utils), [blackjack](https://github.com/duh/blackjack), [pixelsplitter](https://github.com/duh/pixelsplitter)                                                                        |
 | HTML/CSS             | I use this in tandem with JS to create web apps. | [bubbles](https://github.com/duh/bubbles)                                                                 |
 
