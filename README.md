@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=hey!&animation=fadeIn&type=waving&color=gradient&height=190"/>
 </p>
-i'm a first-year Computer Science student, mainly focusing on JS and Python projects, and more recently developing knowledge in Java.<br>
+i'm a second-year Computer Science student, mainly focusing on JS and Python projects, and more recently developing knowledge in Java.<br>
 i am super into old tech, music, gaming, and outside of tech i like going on walks and eating a concerning amount of subway 
 
 
